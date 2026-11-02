@@ -1,0 +1,6 @@
+__pycache__/
+*.mp4
+.ipynb_checkpoints/
+チェックリスト.md
+YouTube概要欄.txt
+report/
